@@ -9,7 +9,6 @@ invisible-watermark
 numpy
 omegaconf
 piexif
-Pillow
 pytorch_lightning
 realesrgan
 scikit-image>=0.19
@@ -24,3 +23,4 @@ torchdiffeq
 kornia
 lark
 inflection
+pillow==8.2.0
