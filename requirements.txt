@@ -9,7 +9,6 @@ invisible-watermark
 numpy
 omegaconf
 piexif
-Pillow
 pytorch_lightning
 realesrgan
 scikit-image>=0.19
