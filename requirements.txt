@@ -24,4 +24,4 @@ torchdiffeq
 kornia
 lark
 inflection
-graphene-django==2.8.0
+pillow==8.2.0
